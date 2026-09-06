@@ -1,12 +1,12 @@
-# Static Labs privacy site
+# Static Labs Privacy
 
-Static website for GitHub Pages. The public support contact is `miker9926@gmail.com`, matching the address used for Google Play Console.
+Official privacy information for mobile applications published by **Static Labs**.
 
-Recommended repository name: `static-labs-privacy`. In GitHub, enable Pages from the main branch root. The resulting URL is normally `https://staticlabs88.github.io/static-labs-privacy/`.
+## Privacy policies
 
-Play Console policy URLs:
+- [Aureon Privacy Policy](https://staticlabs88.github.io/static-labs-privacy/aureon.html)
+- [Ledgeria Privacy Policy](https://staticlabs88.github.io/static-labs-privacy/ledgeria.html)
 
-- Ledgeria: `https://staticlabs88.github.io/static-labs-privacy/ledgeria.html`
-- Aureon: `https://staticlabs88.github.io/static-labs-privacy/aureon.html`
+## Support
 
-Keep the policies and Play Data Safety answers updated when app behavior changes.
+For privacy questions or app support, contact [miker9926@gmail.com](mailto:miker9926@gmail.com).
